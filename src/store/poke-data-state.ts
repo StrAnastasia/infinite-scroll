@@ -29,5 +29,5 @@ class PokeDataState {
     
   }
 }
-
-export default new PokeDataState();
+const newPokeDataState = new PokeDataState();;
+export default newPokeDataState

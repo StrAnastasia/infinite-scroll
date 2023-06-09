@@ -67,12 +67,12 @@ export default InfiniteScrollPage;
 const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
-  align-items:center;
+  align-items: center;
   width: 100%;
   > div {
     max-width: 2140px;
   }
-`
+`;
 
 const Header = styled.div`
   width: 100%;
